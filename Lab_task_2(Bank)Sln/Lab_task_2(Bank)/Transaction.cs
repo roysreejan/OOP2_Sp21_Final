@@ -25,8 +25,8 @@ namespace Lab_task_2_Bank_
         public void ShowInfo()
         {
             Console.WriteLine();
-            Console.WriteLine("Sender Name: {0} Account no:{1}",Sender.AccName, Sender.AccNo);
-            Console.WriteLine("Receiver Name: {0} Account no{1}",Receiver.AccName, Receiver.AccNo);
+            Console.WriteLine("Sender Name: {0}\nAccount no: {1}",Sender.AccName, Sender.AccNo);
+            Console.WriteLine("Receiver Name: {0}\nAccount no: {1}",Receiver.AccName, Receiver.AccNo);
             Console.WriteLine("Account Amount: {0}",Amount);
             Console.WriteLine("Account Additonal Info: {0}",AdditionalInfo);
         }

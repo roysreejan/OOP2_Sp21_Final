@@ -15,12 +15,16 @@ namespace Lab_task_2_Bank_
 
         private Transaction[] listOfTransaction;
 
-        public Account() { }
+        public Account() 
+        {
+            listOfTransaction = new Transaction[10];
+        }
         public Account(string accName, string accNo, int balance)
         {
             AccName = accName;
             AccNo = accNo;
             Balance = balance;
+            listOfTransaction = new Transaction[10];
         }
         public void Deposit(int amount)
         {
@@ -45,7 +49,7 @@ namespace Lab_task_2_Bank_
         }
         public void Transfer(Account acc, int amount )
         {
-            if (amount <= Balance)
+            if (Balance - amount >= 0)
             {
                 Balance = Balance - amount;
                 acc.Balance = acc.Balance + amount;
@@ -59,11 +63,14 @@ namespace Lab_task_2_Bank_
                 Console.WriteLine("Transfer failed");
             }
         }
-        public void AddTransaction(Transaction transaction)
+        public void AddTransaction(Transaction tr)
         {
-            listOfTransaction[TotalNumberofTransaction++] = transaction;
+            if (this.TotalNumberofTransaction < 10)
+            {
+                listOfTransaction[TotalNumberofTransaction++] = tr;
+            }
         }
-        public void ShowAllTransactions()
+        public void ShowAllTransaction()
         {
             for (int i = 0; i < (TotalNumberofTransaction + 1); i++)
             {
@@ -73,7 +80,7 @@ namespace Lab_task_2_Bank_
         public void ShowInfo()
         {
             Console.WriteLine("Acc Name: {0}", AccName);
-            Console.WriteLine("Acc No: {0}" , AccNo);
+            Console.WriteLine("Acc No: {0}", AccNo);
             Console.WriteLine("Balance: {0}", Balance);
         }
     }
