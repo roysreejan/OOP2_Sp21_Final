@@ -1,0 +1,7 @@
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\BankAccountSln\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\BankAccountSln\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\BankAccountSln\BankAccount\bin\Debug\BankAccount.exe.config
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\BankAccountSln\BankAccount\bin\Debug\BankAccount.exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\BankAccountSln\BankAccount\bin\Debug\BankAccount.pdb
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\BankAccountSln\BankAccount\obj\Debug\BankAccount.exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\BankAccountSln\BankAccount\obj\Debug\BankAccount.pdb
