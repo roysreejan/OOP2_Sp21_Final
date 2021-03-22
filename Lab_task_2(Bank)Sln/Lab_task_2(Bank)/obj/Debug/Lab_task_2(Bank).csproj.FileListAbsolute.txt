@@ -1,0 +1,7 @@
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Bank)Sln\Lab_task_2(Bank)\obj\Debug\Lab_task_2(Bank).csprojAssemblyReference.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Bank)Sln\Lab_task_2(Bank)\obj\Debug\Lab_task_2(Bank).csproj.CoreCompileInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Bank)Sln\Lab_task_2(Bank)\bin\Debug\Lab_task_2(Bank).exe.config
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Bank)Sln\Lab_task_2(Bank)\bin\Debug\Lab_task_2(Bank).exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Bank)Sln\Lab_task_2(Bank)\bin\Debug\Lab_task_2(Bank).pdb
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Bank)Sln\Lab_task_2(Bank)\obj\Debug\Lab_task_2(Bank).exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Bank)Sln\Lab_task_2(Bank)\obj\Debug\Lab_task_2(Bank).pdb

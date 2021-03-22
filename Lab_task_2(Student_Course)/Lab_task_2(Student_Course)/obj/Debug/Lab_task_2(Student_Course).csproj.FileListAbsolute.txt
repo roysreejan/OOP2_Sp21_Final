@@ -1,0 +1,7 @@
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Student_Course)\Lab_task_2(Student_Course)\bin\Debug\Lab_task_2(Student_Course).exe.config
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Student_Course)\Lab_task_2(Student_Course)\bin\Debug\Lab_task_2(Student_Course).exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Student_Course)\Lab_task_2(Student_Course)\bin\Debug\Lab_task_2(Student_Course).pdb
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Student_Course)\Lab_task_2(Student_Course)\obj\Debug\Lab_task_2(Student_Course).csprojAssemblyReference.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Student_Course)\Lab_task_2(Student_Course)\obj\Debug\Lab_task_2(Student_Course).csproj.CoreCompileInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Student_Course)\Lab_task_2(Student_Course)\obj\Debug\Lab_task_2(Student_Course).exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\Lab_task_2(Student_Course)\Lab_task_2(Student_Course)\obj\Debug\Lab_task_2(Student_Course).pdb
