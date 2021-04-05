@@ -130,7 +130,7 @@ namespace RegForm
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(84, 163);
+            this.label5.Location = new System.Drawing.Point(84, 171);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(45, 13);
             this.label5.TabIndex = 6;
@@ -157,7 +157,7 @@ namespace RegForm
             "Male",
             "Female",
             "Other"});
-            this.comboBox2.Location = new System.Drawing.Point(135, 163);
+            this.comboBox2.Location = new System.Drawing.Point(135, 168);
             this.comboBox2.Name = "comboBox2";
             this.comboBox2.Size = new System.Drawing.Size(202, 21);
             this.comboBox2.TabIndex = 8;
@@ -313,7 +313,7 @@ namespace RegForm
             // 
             this.label13.AutoSize = true;
             this.label13.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label13.Location = new System.Drawing.Point(81, 546);
+            this.label13.Location = new System.Drawing.Point(73, 546);
             this.label13.Name = "label13";
             this.label13.Size = new System.Drawing.Size(48, 13);
             this.label13.TabIndex = 23;
@@ -414,7 +414,7 @@ namespace RegForm
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(210, 724);
+            this.button1.Location = new System.Drawing.Point(210, 734);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(75, 23);
             this.button1.TabIndex = 34;
@@ -459,17 +459,20 @@ namespace RegForm
             // 
             // textBox11
             // 
+            this.textBox11.Enabled = false;
             this.textBox11.Location = new System.Drawing.Point(210, 647);
             this.textBox11.Name = "textBox11";
             this.textBox11.Size = new System.Drawing.Size(61, 20);
             this.textBox11.TabIndex = 39;
             this.textBox11.Text = "Optional";
+            this.textBox11.TextChanged += new System.EventHandler(this.textBox11_TextChanged);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(758, 759);
+            this.AutoScroll = true;
+            this.ClientSize = new System.Drawing.Size(528, 765);
             this.Controls.Add(this.textBox11);
             this.Controls.Add(this.label21);
             this.Controls.Add(this.label20);

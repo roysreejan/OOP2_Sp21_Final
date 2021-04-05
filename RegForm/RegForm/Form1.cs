@@ -31,5 +31,10 @@ namespace RegForm
         {
 
         }
+
+        private void textBox11_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
