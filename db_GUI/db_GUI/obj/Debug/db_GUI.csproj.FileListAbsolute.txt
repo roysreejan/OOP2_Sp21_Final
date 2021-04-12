@@ -1,0 +1,10 @@
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\bin\Debug\db_GUI.exe.config
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\bin\Debug\db_GUI.exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\bin\Debug\db_GUI.pdb
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.csprojAssemblyReference.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.Form1.resources
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.Properties.Resources.resources
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.csproj.GenerateResource.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.csproj.CoreCompileInputs.cache
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.exe
+E:\AIUB\SEMESTER-7\OOP2\FINAL TERM\Code\db_GUI\db_GUI\obj\Debug\db_GUI.pdb

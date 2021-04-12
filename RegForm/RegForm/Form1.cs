@@ -36,5 +36,19 @@ namespace RegForm
         {
 
         }
+
+        private void SubmitClick(object sender, EventArgs e)
+        {
+            string fname = txtFirstName.Text;
+            string lname = txtLastName.Text;
+            string month = cbMonth.SelectedItem.ToString();
+            string day = cbDay.SelectedItem.ToString();
+            string year = cbYear.SelectedItem.ToString();
+            string gender = cbGender.SelectedItem.ToString();
+
+            rtOutput.Text = string.Format("First Name: {0}\nLast Name: {1}\nDate of Birth: {2} {3} {4}\nGender: {5}\n", fname, lname, month, day, year, gender);
+
+           MessageBox.Show("Submit Cliclked");
+        }
     }
 }
